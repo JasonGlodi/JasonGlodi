@@ -36,9 +36,12 @@ I'm a **Full-Stack & Backend Software Engineer** based in Douala, Cameroon, curr
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/CachyOS/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
+---
+
+
 
 ### 📊 GitHub Stats
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=JasonGlodi&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)](https://github-stats-extended.vercel.app/api?username=JasonGlodi&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)
+[![GitHub Stats](https://github-stats-extended-frontend-three-puce.vercel.app/api?username=JasonGlodi&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)](https://github-stats-extended-frontend-three-puce.vercel.app/api?username=JasonGlodi&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented%2Ccontributions&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)
 
-[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=JasonGlodi&layout=compact&count_private=true&theme=tokyonight)](https://github-stats-extended.vercel.app/api/top-langs/?username=JasonGlodi&layout=compact&count_private=true&theme=tokyonight)
+[![Top Languages](https://github-stats-extended-frontend-three-puce.vercel.app/api/top-langs/?username=JasonGlodi&layout=compact&count_private=true&theme=tokyonight)](https://github-stats-extended-frontend-three-puce.vercel.app/api/top-langs/?username=JasonGlodi&layout=compact&count_private=true&theme=tokyonight)
