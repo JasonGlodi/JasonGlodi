@@ -6,10 +6,10 @@ I'm a **Full-Stack & Backend Software Engineer** based in Douala, Cameroon, curr
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently architecting backend platforms using **FastAPI**, **Next.js**, and **PostgreSQL** at **[@One-Market-cm](https://github.com/One-Market-cm)**
+- 🔭 Currently architecting backend platforms using **FastAPI** and **PostgreSQL** at **[@One-Market-cm](https://github.com/One-Market-cm)**
 - 🛠️ Skilled in building payment integrations, remote configurations, and RESTful APIs
 - 🎓 Hold a **B.Tech in Full Stack Development** and pursuing a **Master of Engineering in Computer Science**
-- 💬 Ask me about: **FastAPI, React, TypeScript, Database Design, Docker, Linux (CachyOS)**
+- 💬 Ask me about: **FastAPI, React, NextJS, TypeScript, Database Design, Docker, Linux (CachyOS)**
 - 📫 Reach out to me: **[LinkedIn Profile](https://www.linkedin.com/in/glodi-jaison-ndoma-mbala-152685302/)**
 
 ---
